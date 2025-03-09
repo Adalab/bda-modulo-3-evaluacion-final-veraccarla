@@ -6,13 +6,13 @@ This project analyses the customers behaviour within an airline's loyalty progra
 
 📊 Key Objectives
 
-🛫 Understand booking behavior: Analyse the number of flights booked per customer groups and identify possible trends.
-🎯 Loyalty engagement: Evaluate accumulated points, redemptions, and customer retention.
-📈 Impact of demographics: Assess the relationship between education, salary, and flight bookings.
-🧐 Identify anomalies: Detect and handle missing values, duplicates, and inconsistencies in the data.
+- 🛫 Understand booking behavior: Analyse the number of flights booked per customer groups and identify possible trends.
+- 🎯 Loyalty engagement: Evaluate accumulated points, redemptions, and customer retention.
+- 📈 Impact of demographics: Assess the relationship between education, salary, and flight bookings.
+- 🧐 Identify anomalies: Detect and handle missing values, duplicates, and inconsistencies in the data.
 
 🛠 Tech Stack & Tools
 
-📦 Pandas & NumPy – Data manipulation.
-📊 Seaborn – Data visualization.
-🧪 Scipy & Statsmodels – Hypothesis testing.
+- 📦 Pandas & NumPy – Data manipulation.
+- 📊 Seaborn – Data visualization.
+- 🧪 Scipy & Statsmodels – Hypothesis testing.
